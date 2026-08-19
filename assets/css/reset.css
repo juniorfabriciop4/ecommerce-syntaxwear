@@ -109,6 +109,7 @@ body {
 ol,
 ul {
   list-style: none;
+  text-decoration: none;
 }
 
 table {
